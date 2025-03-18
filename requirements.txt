@@ -1,0 +1,5 @@
+gymnasium
+numpy
+torch
+stable_baselines3
+tqdm
